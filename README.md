@@ -2,15 +2,6 @@
 This is my personal portfolio!
 MADE WITH ❤ AND EFFORTS!
 
-FRONT PAGE !
-
- ![front](https://user-images.githubusercontent.com/82707877/142616876-c6861bb2-b39f-4bde-8f08-1ef70a96c685.png)
- 
- 
- ABOUT PAGE !
-
-![portfolio](https://user-images.githubusercontent.com/82707877/142616886-f3f4e217-4ea1-400e-92ef-d22df347acb9.png)
-
 
 ### Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
