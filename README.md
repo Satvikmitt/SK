@@ -1,4 +1,4 @@
-# AK-PP
+# SK-PP
 This is my personal portfolio!
 MADE WITH ❤ AND EFFORTS!
 
@@ -15,7 +15,7 @@ FRONT PAGE !
 ### Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <h2> Website:You can visit My personal Portfolio website by clicking on the visit down below: <BR>
-<a href="https://The-Arshad-Khan.github.io/AK-PP/" target="_blank">Visit 🚀</a>
+<a href="https://Satvikmitt.github.io/SK/" target="_blank">Visit 🚀</a>
 </h2> 
 
 ## 👨‍💻 Tech Stack:
@@ -39,9 +39,9 @@ If you want to contact me, you can reach me through below Social handles.
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/the-arshad-khan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/isolated_banda" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:4472arshadkhan@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://www.linkedin.com/in/satvik-mittal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/satvik_mittal" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto: mittalsatvik468@gmail.com@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
 
